@@ -27,7 +27,7 @@ for (int i = 0; i < 200; i++) {
 	meg.setRandomPenColor();
 	
 
-	meg.move(i);
+	meg.move(1);
 			// 10. Make the robot move "i" pixels instead of 200 (don’t need new line of code for this, just change previous one)
 	
 			// 6. Turn the robot the amount in your angle variable
